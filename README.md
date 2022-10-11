@@ -1,22 +1,38 @@
-### Hey there, I'm Jordan - aka [RealJayDev](https://devforum.roblox.com/u/realjaydev/summary) 👋
 
-## I'm a game developer!
-- I'm currently working on a game called Tower Fall - A tower defense game in a medieval fantasy setting! 🏰
-- 2020 goals: Finally release a project! 🏁
 
-## Feel free to contact me!
-[<img align="left" alt="DevForums" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://devforum.roblox.com/u/realjaydev/summary)
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Real_JayDev)
+<h1 align="center"> Hey there, I'm Jordan! 👋🏻 </h1>
+
+<hr>
+
+<h2 align="center">🧔🏻 Some info about me </h2>
+
+I'm a Roblox-based game developer from the UK! I enjoy learning about new technologies and using them to create cool stuff.
+
+- ⌨️ I'm currently working on projects for [Inkton Games](https://www.roblox.com/groups/7779922/Inkton-games#!/about) as well as freelance work.
+- 📖 I'm currently learning Flamework, C++ and more!
+- 🙂 Pronouns: He / Him
+
 <br>
 
-## My most used tools and languages!
+<h2 align="center">🤝🏻 Connect with me</h2>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Lua" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<body>
+    <div class="img1">
+<p align='center'>
+<a href="https://www.linkedin.com/in/jordan-chrimes-334495253/" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Linkedin-icon.png" width="47" alt="Linkedin"></a>         <a href="mailto:J.Chrimes2002@gmail.com" target="_blank"><img src="https://icons.iconarchive.com/icons/wwalczyszyn/android-style-honeycomb/64/GMail-icon.png" width="52" alt="Email"></a>     <a href="https://devforum.roblox.com/u/realjaydev/summary" target="_blank"><img src="https://seeklogo.com/images/R/roblox-studio-logo-C006FB6F49-seeklogo.com.png" alt="Dev Forum" width=48></a>         <a href="https://twitter.com/Real_JayDev" target="_blank"><img src="https://icons.iconarchive.com/icons/alecive/flatwoken/64/Apps-Twitter-icon.png" alt="twitter" width=48></a>
+<p/>
+      
+</div>
+</body>
+
 <br>
+<h2 align="center">⚙️ Tech Stack </h2>
 
-## My stats!
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RealJayDev&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealJayDev&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+<body>
+    <div class="img1">
+<p align='center'>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="47" alt="Visual Studio Code"></a>                <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png" alt="Dev Forum" width=48></a>         <a href="https://www.roblox.com/create" target="_blank"><img src="https://static.wikia.nocookie.net/logopedia/images/b/bb/Roblox_Player_2019.svg/revision/latest/scale-to-width-down/250?cb=20210627111844" width="52" alt="Email"></a>              <a href="https://roblox-ts.com/" target="_blank"><img src="https://roblox-ts.com/img/roblox-ts.svg" alt="twitter" width=48></a> <a href="https://luau-lang.org/" target="_blank"><img src="https://luau-lang.org/assets/images/luau-88.png" width="47" alt="Visual Studio Code"></a>
+<p/>
+      
+</div>
+</body>
