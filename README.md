@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hey there, I'm Jordan! 👋🏻 </h1>
 
-<hr>
+<br>
 
 <h2 align="center">🧔🏻 Some info about me </h2>
 
